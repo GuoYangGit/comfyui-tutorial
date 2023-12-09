@@ -31,6 +31,7 @@
 - ComfyUI+AnimateDiff+SDXL 生成动画（使用 Animatediff 的 SDXL 模型）
 - ComfyUI+AnimateDiff+SDXL+ControlNet 视频生成动画
 - ComfyUI+AnimateDiff+SDXL+ControlNet-QR 生成动画
+- ComfyUI+AnimateDiff+SDXL+ControlNet+IPAdapter_Unfold_Batch视频转动画
 
 ### 使用 LCM 模型
 
